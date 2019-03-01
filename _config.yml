@@ -15,7 +15,7 @@ permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: #realDonaldTrump
-facebook_username: 
+facebook_username:
 github_username:  alinecode
 email: googleassistant@vip.qq.com
 weibo_username: 6969972165
@@ -28,8 +28,8 @@ description_footer: 来自阿志的个人专栏！
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: #gaohaoyang
+duoshuo_shortname: #azblog
+disqus_shortname: #azblog
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
