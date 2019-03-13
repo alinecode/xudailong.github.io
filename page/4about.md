@@ -11,7 +11,8 @@ type: page
 
 ## 关于
 
-![图片.png](https://raw.githubusercontent.com/alinecode/photosForGithubPages/master/avatar/6fb9f68b8cce0247b18d6e9583800542.jpg)
+
+<img src="https://raw.githubusercontent.com/alinecode/photosForGithubPages/master/avatar/6fb9f68b8cce0247b18d6e9583800542.jpg"  height="200" width="200">
 
 
 ## 联系我
