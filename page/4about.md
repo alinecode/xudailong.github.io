@@ -11,7 +11,7 @@ type: page
 
 ## 关于
 
-<iframe src="https://raw.githubusercontent.com/alinecode/photosForGithubPages/master/avatar/6fb9f68b8cce0247b18d6e9583800542.jpg" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<div src="https://raw.githubusercontent.com/alinecode/photosForGithubPages/master/avatar/6fb9f68b8cce0247b18d6e9583800542.jpg" style="border: 0;height: 200px;width: 200px;overflow: hidden;" frameBorder="0"></div>
 
 
 ## 联系我
